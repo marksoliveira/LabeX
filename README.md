@@ -7,7 +7,7 @@ Os arquivos estão divididos entre `components`(FormContainer, PageTitle
 e outros) e as `pages` são as páginas em si do projeto. 
 
 ## Sobre
-A ideia foi criar uma plataforma de gerenciamento de viagens espaciais. 
+O projeto consiste em uma plataforma de gerenciamento de viagens espaciais. 
 A plataforma terá uma parte pública e uma privada.
 
 Na parte pública qualquer usuário poderá:
@@ -17,6 +17,9 @@ Na parte privada, o administrador poderá:
 - Listar todas as Viagens
 - Criar novas viagens
 - Listar, aprovar e rejeitar inscrições feitas pela parte pública da aplicação
+
+Há integrações com APIs externas. Bibliotecas: axios, styled-components e
+material-ui
 
 ## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. Com ele em 
