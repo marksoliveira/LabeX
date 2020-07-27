@@ -34,3 +34,6 @@ rodar:
 Estando com o surge instalado (`npm install surge`), para deployar pode-se utilizar 
 o `surge ./build`, um link será fornecido e assim poderá utilizá-lo para abrir a 
 aplicação no navegador.
+
+Login para teste: marcos@gmail.com
+Senha: 123456
