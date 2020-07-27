@@ -8,7 +8,7 @@ e outros) e as `pages` são as páginas em si do projeto.
 
 ## Sobre
 O projeto consiste em uma plataforma de gerenciamento de viagens espaciais. 
-A plataforma terá uma parte pública e uma privada.
+A plataforma possui uma parte pública e uma privada.
 
 Na parte pública qualquer usuário poderá:
 - Se inscrever para uma viagem já existente
